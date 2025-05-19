@@ -23,7 +23,7 @@ This project is a **Handwritten Digit Recognition System** built using a **Feedf
 - **TensorFlow / Keras**
 - **NumPy**
 - **Matplotlib**
-- **Jupyter Notebook**
+- **Google Colab**
 
 ---
 
